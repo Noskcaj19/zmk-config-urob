@@ -3,8 +3,8 @@
 
 #define X_LH  &none
 #define X_RH  &none
-#define RH2   &none
-#define LH2   &none
+#define RH2
+#define LH2
 
 /* activate bluetooth */
 #define CONFIG_WIRELESS 1
