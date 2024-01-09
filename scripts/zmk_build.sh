@@ -94,7 +94,7 @@ done
 [[ -z $CLEAR_CACHE ]] && CLEAR_CACHE="false"
 
 DOCKER_IMG="zmkfirmware/zmk-dev-arm:$ZEPHYR_VERSION"
-DOCKER_BIN="$SUDO podman"
+DOCKER_BIN="docker"
 
 # +-------------------------+
 # | AUTOMATE CONFIG OPTIONS |

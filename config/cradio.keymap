@@ -1,11 +1,6 @@
 /* source keypos definitions */
 #include "../zmk-nodefree-config/keypos_def/keypos_34keys.h"
 
-#define X_LH  &none
-#define X_RH  &none
-#define LH2
-#define RH2
-
 /* activate bluetooth */
 #define CONFIG_WIRELESS 1
 
